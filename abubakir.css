@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(66, 210, 30);
+    color: white;
+}
+
+header ul{
+    gap: 30px;
+    color: gold;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+  
+}
+
+a{
+    text-decoration: none;
+    justify-content: space-between;
+    color: white;
+}
+
+  section img{
+    width: 29%;
+    height: 29%;
+    padding: 30px;
+    
+    justify-content: space-between;
+    
+}
+
+ p { 
+    line-height: 25px;
+
+}
+
+
+
